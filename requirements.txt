@@ -3,3 +3,5 @@ mediapipe
 numpy
 pandas
 streamlit
+scipy
+protobuf<5.0.0
